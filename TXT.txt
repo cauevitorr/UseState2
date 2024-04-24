@@ -1,0 +1,10 @@
+ // const [ativo, setAtivo] = React.useState(true)
+ // const [objeto, setObjeto] = React.useState({nome:'Cauê', idade: 17})
+ // const [contador, setContador] = React.useState(1)
+ // function HandleClick() {
+ //  setContador((contador)=>{
+ //   return contador + 1
+ //  })
+  // setItem((item => {
+  //  return [...item, 'item' + contador]
+  // }))
